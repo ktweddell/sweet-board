@@ -7,7 +7,7 @@
 		<meta charset="utf-8">
 		<meta http-equiv="refresh" content="900">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-		<title>Sweet Board</title>
+		<title>Anagram Messages</title>
 		<meta name="description" content="">
 		<meta name="viewport" content="width=1000px">
 		
