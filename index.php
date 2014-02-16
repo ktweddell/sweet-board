@@ -9,6 +9,6 @@
 	</ul>
 </section>
 <footer>
-	<div>To add to the sweetness, text <span>(587) 315-3009</span></div>
+	<div>To share some thanks text <span>(587) 315-3009</span></div>
 </footer>
 <?php include('footer.php'); ?>
