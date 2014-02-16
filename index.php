@@ -1,5 +1,5 @@
 <?php include('header.php'); ?>
-<img src="/img/anagram_logo.png">
+<h1>Anagram</h1>
 <section class="wrapper">
 	<?php include('get/init.php'); ?>
 </section>
