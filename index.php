@@ -1,10 +1,10 @@
 <?php include('header.php'); ?>
-<h1>Anagram</h1>
+<h1>Thanks!</h1>
 <section class="wrapper">
 	<?php include('get/init.php'); ?>
 </section>
 <section class="vintage">
-	<h3>Oldies but goodies</h3>
+	<h3>Past thank yous</h3>
 	<ul class="slider">
 	</ul>
 </section>
